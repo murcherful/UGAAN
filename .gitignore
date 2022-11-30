@@ -1,0 +1,7 @@
+data_bp
+log_bp/*
+.vscode/*
+**/__pycache__
+util/pointnet2_ops_lib/build/*
+util/pointnet2_ops_lib/dist/*
+util/pointnet2_ops_lib/pointnet2_ops.egg-info/*
